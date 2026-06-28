@@ -1,5 +1,12 @@
 # ClimaSense 🌍⚡
 
+<div align="center">
+  <a href="https://clima-sense-fmwp.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔴_Live_Demo-clima--sense.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+</div>
+<br/>
+
 **ClimaSense** is an advanced, AI-powered atmospheric intelligence and disaster management dashboard. Built to provide real-time situational awareness, it combines predictive weather modeling, crowdsourced incident mapping, and actionable AI safety recommendations into a single, highly aesthetic interface.
 
 Whether you're tracking severe storms, monitoring urban air quality, or calculating emergency evacuation routes, ClimaSense delivers critical climate data instantly.
