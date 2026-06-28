@@ -21,16 +21,14 @@ Whether you're tracking severe storms, monitoring urban air quality, or calculat
 
 ## 🛠️ Technology Stack
 
-- **Frontend:** Next.js 14, React 18, Tailwind CSS, Framer Motion
-- **Maps & Visualization:** Leaflet, React-Leaflet, React-Globe.gl, Three.js
-- **Backend & APIs:** Next.js Route Handlers
-- **Database:** Supabase (PostgreSQL)
-- **Data Sources:** 
-  - Open-Meteo (Weather Forecasts)
-  - OpenWeather (Air Pollution / AQI)
-  - Tomorrow.io (Precipitation)
-  - OSRM (Routing)
-- **AI Integration:** Groq API (Meta Llama 3.3 70B Versatile)
+| Category | Technologies |
+| :--- | :--- |
+| 🎨 **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js_14-black?logo=next.js) ![React](https://img.shields.io/badge/React_18-61DAFB?logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?logo=framer) |
+| 🗺️ **Maps & Viz** | ![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-black?logo=three.js) `React-Globe.gl` |
+| ⚙️ **Backend** | ![Next.js APIs](https://img.shields.io/badge/Route_Handlers-black?logo=next.js) |
+| 🗄️ **Database** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) `PostgreSQL` |
+| 📡 **Data APIs** | `Open-Meteo` `OpenWeather` `Tomorrow.io` `OSRM` |
+| 🧠 **AI Engine** | ![Groq](https://img.shields.io/badge/Groq_API-F55036) `Meta Llama 3.3 70B` |
 
 ---
 
