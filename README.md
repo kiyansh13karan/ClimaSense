@@ -19,24 +19,6 @@ Whether you're tracking severe storms, monitoring urban air quality, or calculat
 
 ---
 
-## 📸 Snapshots
-
-*Include screenshots of the application below:*
-
-**1. Landing Page & 3D Globe**
-*(Insert Snapshot Here)*
-
-**2. Main Dashboard & AI Insights**
-*(Insert Snapshot Here)*
-
-**3. Interactive Map & Evacuation Routing**
-*(Insert Snapshot Here)*
-
-**4. AQI Panel & Emergency Ticker**
-*(Insert Snapshot Here)*
-
----
-
 ## 🛠️ Technology Stack
 
 - **Frontend:** Next.js 14, React 18, Tailwind CSS, Framer Motion
